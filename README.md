@@ -6,6 +6,7 @@
   <a href="mailto:surasak.chantarach@gmail.com"><img src="https://img.shields.io/badge/Email-surasak.chantarach-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Nonthaburi,_Thailand-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <a href="https://github.com/llexpertll"><img src="https://img.shields.io/badge/GitHub-llexpertll-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@surasak.chantarach"><img src="https://img.shields.io/badge/Medium-surasak.chantarach-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
@@ -19,6 +20,34 @@ HR Technology and Digital Transformation professional with **15+ years** of expe
 - 🔗 Bridge business and technical teams to deliver simple, scalable HR solutions
 - 🎓 M.Sc. **Artificial Intelligence for Business Analytics** — KMITL
 - 📊 Growing into **Data Engineering, Data Science & Cloud**
+
+---
+
+## 🚀 Featured Project — HR Data Pipeline & People Analytics
+
+> 🎓 Independent Study (IS) · M.Sc. AI for Business Analytics, KMITL
+> 💻 Code: **[llexpertll/hr-people-analytics-pipeline](https://github.com/llexpertll/hr-people-analytics-pipeline)**
+> 📝 Read the full write-up on Medium: **[พัฒนา Data Pipeline และ People Analytics สำหรับ HR](https://medium.com/@surasak.chantarach/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-data-pipeline-%E0%B9%81%E0%B8%A5%E0%B8%B0-people-analytics-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-hr-0efad6c503f8)**
+
+An end-to-end HR analytics platform: from HRIS source data through a cloud data pipeline and warehouse, to attrition prediction with machine learning and Power BI dashboards.
+
+```
+Odoo HR (PostgreSQL) ──▶ Cloud Storage (Data Lake) ──▶ BigQuery (Data Warehouse) ──▶ ML (Python) ──▶ Power BI
+                        └──────────── orchestrated by Apache Airflow (Cloud Composer) ────────────┘
+```
+
+- **4 ETL pipelines:** employee master, attrition trend, leave records, performance ratings
+- **Attrition prediction:** 34 → 20 key features; compared Logistic Regression, Decision Tree, Random Forest, SVM, KNN and Neural Network
+- **People Analytics dashboard:** headcount, attrition rate, and drivers by department, demographics and commute distance
+
+![Odoo](https://img.shields.io/badge/Odoo_HR-714B67?style=flat-square&logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
@@ -96,6 +125,7 @@ HR Technology and Digital Transformation professional with **15+ years** of expe
 ## 🎓 Education
 
 - **M.Sc. Artificial Intelligence for Business Analytics** — King Mongkut's Institute of Technology Ladkrabang (KMITL), 2022–2024
+  - Independent Study: *[HR Data Pipeline & People Analytics](https://medium.com/@surasak.chantarach/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-data-pipeline-%E0%B9%81%E0%B8%A5%E0%B8%B0-people-analytics-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-hr-0efad6c503f8)*
 - **B.Sc. Industrial Education (Computer Technology)** — King Mongkut's University of Technology North Bangkok (KMUTNB), 2005–2008
 
 ---
