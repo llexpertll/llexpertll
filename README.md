@@ -53,12 +53,9 @@ Odoo HR (PostgreSQL) ──▶ Cloud Storage (Data Lake) ──▶ BigQuery (Dat
 
 ## 📊 Power BI Portfolio
 
-<!-- TODO: แทนที่ POWERBI_LINK_1 / POWERBI_LINK_2 ด้วยลิงก์ Publish to web และแก้ชื่อ/รายละเอียดให้ตรงกับ dashboard -->
-
 | Dashboard | Highlights |
 |---|---|
-| 👥 **[People Dashboard I](POWERBI_LINK_1)** | Headcount, demographics, and workforce movement (hires & exits) |
-| 📉 **[People Dashboard II](POWERBI_LINK_2)** | Attrition rate, attrition drivers, and at-risk employee segments |
+| 👥 **[People Analytics Dashboard](https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf)** 📄 PDF | Headcount, demographics, workforce movement and attrition |
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
