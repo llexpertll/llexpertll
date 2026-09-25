@@ -55,12 +55,12 @@ Odoo HR (PostgreSQL) ──▶ Cloud Storage (Data Lake) ──▶ BigQuery (Dat
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf">
         <img src="https://github.com/llexpertll/llexpertll/raw/main/powerbi/People-Analytics-Dashboard-preview.png" alt="People Analytics Dashboard" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="75%" valign="top">
       <h3>👥 People Analytics Dashboard</h3>
       <p>An <b>11-page</b> HR dashboard with drill-down by division, location, corporate title, generation and performance grade.</p>
       <ul>
