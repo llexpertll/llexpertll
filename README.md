@@ -53,9 +53,15 @@ Odoo HR (PostgreSQL) ──▶ Cloud Storage (Data Lake) ──▶ BigQuery (Dat
 
 ## 📊 Power BI Portfolio
 
-| Dashboard | Highlights |
-|---|---|
-| 👥 **[People Analytics Dashboard](https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf)** 📄 PDF | Headcount, demographics, workforce movement and attrition |
+### 👥 People Analytics Dashboard
+
+<a href="https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf">
+  <img src="https://github.com/llexpertll/llexpertll/raw/main/powerbi/People-Analytics-Dashboard-preview.png" alt="People Analytics Dashboard" width="100%" />
+</a>
+
+An **11-page** HR dashboard covering Headcount, Turnover, Year of Service, New Hire, Attrition and KRI tracking, with drill-down by division, location, corporate title, generation and performance grade.
+
+📄 **[View full dashboard (PDF, 11 pages)](https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf)**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
