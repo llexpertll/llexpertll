@@ -53,19 +53,30 @@ Odoo HR (PostgreSQL) ──▶ Cloud Storage (Data Lake) ──▶ BigQuery (Dat
 
 ## 📊 Power BI Portfolio
 
-### 👥 People Analytics Dashboard
-
-<a href="https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf">
-  <img src="https://github.com/llexpertll/llexpertll/raw/main/powerbi/People-Analytics-Dashboard-preview.png" alt="People Analytics Dashboard" width="100%" />
-</a>
-
-An **11-page** HR dashboard covering Headcount, Turnover, Year of Service, New Hire, Attrition and KRI tracking, with drill-down by division, location, corporate title, generation and performance grade.
-
-📄 **[View full dashboard (PDF, 11 pages)](https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf)**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Star Schema](https://img.shields.io/badge/Data_Modeling-Star_Schema-555555?style=flat-square)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf">
+        <img src="https://github.com/llexpertll/llexpertll/raw/main/powerbi/People-Analytics-Dashboard-preview.png" alt="People Analytics Dashboard" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👥 People Analytics Dashboard</h3>
+      <p>An <b>11-page</b> HR dashboard with drill-down by division, location, corporate title, generation and performance grade.</p>
+      <ul>
+        <li>Headcount &amp; Manpower</li>
+        <li>Turnover &amp; Attrition</li>
+        <li>Year of Service</li>
+        <li>New Hire</li>
+        <li>KRI tracking &amp; Reasons for Leaving</li>
+      </ul>
+      <p>📄 <a href="https://github.com/llexpertll/llexpertll/blob/main/powerbi/People-Analytics-Dashboard.pdf"><b>View full dashboard (PDF)</b></a></p>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Data_Modeling-Star_Schema-555555?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
